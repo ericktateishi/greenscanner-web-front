@@ -1,0 +1,40 @@
+.green-login-page {
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.green-login {
+	border-radius: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    color: #424242;
+	background-color: #ffffffd6;
+    margin-top: 80px !important;
+}
+
+.green-login-title {
+	text-align: center;
+}
+
+.green-container {
+    margin: 0 auto;
+}	
+
+.green-finger {
+	width: 100px;
+	margin-bottom: 40px;
+}
+
+.green-login-action {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
