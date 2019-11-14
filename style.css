@@ -38,3 +38,9 @@
     padding-left: 4rem;
     padding-right: 4rem;
 }
+
+.card-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: rgb(41, 97, 74);
+}
